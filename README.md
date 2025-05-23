@@ -92,8 +92,7 @@ DeviceNetworkEvents
 | project Timestamp, DeviceName, InitiatingProcessAccountName, ActionType, RemoteIP, RemotePort, RemoteUrl, InitiatingProcessFileName, InitiatingProcessFolderPath
 | order by Timestamp desc
 ```
-<img width="1212" alt="image" src="![image](https://github.com/user-attachments/assets/9c286438-a1a5-4b16-9bd3-6493af07f6fe)
-">
+<img width="1212" alt="image" src="https://github.com/user-attachments/assets/9c286438-a1a5-4b16-9bd3-6493af07f6fe">
 
 ---
 
